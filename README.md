@@ -8,5 +8,6 @@ closeList:Store nodes that are already in the path
 ### Core idea of algorithm:
 1.Add start node to openList
 2.Repeat the following operation:
-  
++ Make the first node in openList as current node
+ 
 
