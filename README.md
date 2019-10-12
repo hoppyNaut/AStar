@@ -19,4 +19,4 @@ closeList:Store nodes that are already in the path
    + If node is not in openList, add it to openList;Else Update its cost value
 + Sort openList according to value "f" of nodes
 
-3.if find no path,output prompt
+3.If find no path,output prompt
